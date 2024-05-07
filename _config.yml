@@ -1,0 +1,6 @@
+title: Early Modern Active Voice
+description: Digital Critical Edition of Mary Sidney's Psalms Translations
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins: 
+- jekyll-remote-theme
