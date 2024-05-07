@@ -1,7 +1,7 @@
 # Early Modern Active Voice
 
-## About
+* About
 
-## My Interests
+* My Interests
 
-## Bio
+* Bio
